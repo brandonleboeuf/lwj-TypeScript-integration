@@ -16,5 +16,7 @@ This file utilizes the Album interface from types.d.ts
 
 
 ### Usage
-to run files, type:
-```node src/js
+
+```
+node src/js
+```
