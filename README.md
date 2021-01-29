@@ -4,14 +4,19 @@
 This file has three examples of using TypeScript with vanilla JS
 
 1. /** */ and // @ts-check
-  Found in: src > js > utils.js
+  
+Found in: src > js > utils.js
 
 2. .d.ts
-  Found in: src > js > album.d.ts
+
+Found in: src > js > album.d.ts
+
 This file utilizes the Album interface from types.d.ts
 
 3. .ts
-  Found in: src > ts > album.ts 
+
+Found in: src > ts > album.ts 
+
 This file utilizes the Album interface from types.d.ts
 
 
