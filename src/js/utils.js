@@ -14,7 +14,6 @@ export function multiply(num1, num2){
  */
 
 /**
- * 
  * @param {string} name 
  * @param {string} line1 
  * @param {string} city 
@@ -35,7 +34,6 @@ export function storeAddress(name, line1, city, state, zip) {
 }
 
 /**
- * 
  * @param {UserInfo} input 
  */
 export function validateInput(input){
